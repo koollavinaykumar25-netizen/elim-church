@@ -16,6 +16,14 @@ This is a **Next.js** project developed for **Emmanuel Living Integrity Mission 
 
 ## 🚀 Getting Started  
 
+## Vinay learnings
+first create a branch 
+push the code to main branch 
+created new branch
+updating this changes 
+and pushing back to new branch
+
+
 To run the project locally, follow these steps:  
 
 ```bash
